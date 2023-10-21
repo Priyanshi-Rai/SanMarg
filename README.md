@@ -275,3 +275,4 @@ $ yarn install
 # Run server
 $ npm run start
 ```
+Teaching students about your project
